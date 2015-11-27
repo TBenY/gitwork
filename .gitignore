@@ -1,0 +1,12 @@
+
+notebooks/00 - Tutorial Setup .ipynb
+
+notebooks/titanic_train.csv
+
+notebooks/somefile.txt
+
+*.png
+
+*.ipynb
+
+*.jpg
