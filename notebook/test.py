@@ -1,1 +1,1 @@
-print 'tset'
+print 'tדt'
