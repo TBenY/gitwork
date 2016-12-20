@@ -1,3 +1,3 @@
 
-print 'tדt'
+print 'test'
 
